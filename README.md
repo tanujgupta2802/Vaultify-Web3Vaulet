@@ -1,6 +1,6 @@
 # Wallet Generator
 
-![Wallet Generator Banner](public/Screenshot from 2024-12-05 22-15-35.png)
+![Wallet Generator Banner](./public/web3-wallet.png)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@
 
 ## Demo
 
-![Wallet Generator Demo](path-to-your-demo-image.gif)
+![Wallet Generator Demo](./public/web3-wallet.png)
 
 ## Getting Started
 
