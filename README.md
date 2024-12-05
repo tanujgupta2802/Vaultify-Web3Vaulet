@@ -1,6 +1,6 @@
 # Wallet Generator
 
-![Wallet Generator Banner](path-to-your-banner-image.png)
+![Wallet Generator Banner](public/Screenshot from 2024-12-05 22-15-35.png)
 
 ## Table of Contents
 
