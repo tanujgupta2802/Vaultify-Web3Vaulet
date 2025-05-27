@@ -62,7 +62,7 @@
 
 ![Application Demo](./public/web3-wallet.png)
 
-**Live Demo**: [Visit Web3-Wallet](https://your-deployment-url.com)
+**Live Demo**: [Visit Web3-Wallet](https://web3-wallet-phi-brown.vercel.app/)
 
 ## 🏗️ System Architecture
 
