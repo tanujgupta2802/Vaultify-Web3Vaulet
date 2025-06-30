@@ -4,7 +4,7 @@
 
 ---
 
-Live Demo: 
+Live Demo: https://vaultify-web3-vaulet.vercel.app/
 
 ---
 
