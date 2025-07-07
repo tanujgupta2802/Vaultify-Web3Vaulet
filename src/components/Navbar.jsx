@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { Globe } from 'lucide-react';
+import React from "react";
+import { Link } from "react-router-dom";
+import { Globe } from "lucide-react";
 
 const Navbar = () => {
   return (
@@ -10,7 +10,9 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           <Link to="/" className="flex items-center space-x-3">
             <Globe className="w-8 h-8 text-white" />
-            <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">Web3-Wallet</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">
+              Vaultify
+            </h1>
           </Link>
         </div>
 
